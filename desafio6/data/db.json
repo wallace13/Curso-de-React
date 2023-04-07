@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Memoria",
+      "price": "230",
+      "id": 2
+    },
+    {
+      "name": "Gabinete",
+      "price": "1200",
+      "id": 3
+    },
+    {
+      "name": "Monitor",
+      "price": "3000",
+      "id": 4
+    }
+  ]
+}
